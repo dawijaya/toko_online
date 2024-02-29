@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dawijaya/toko_online/static/css/main.59b5c7d6.css",
+    "main.js": "/dawijaya/toko_online/static/js/main.1a018d76.js",
+    "index.html": "/dawijaya/toko_online/index.html",
+    "main.59b5c7d6.css.map": "/dawijaya/toko_online/static/css/main.59b5c7d6.css.map",
+    "main.1a018d76.js.map": "/dawijaya/toko_online/static/js/main.1a018d76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59b5c7d6.css",
+    "static/js/main.1a018d76.js"
+  ]
+}
