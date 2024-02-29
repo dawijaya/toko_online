@@ -12,7 +12,7 @@ function Navigation() {
         <nav>
           <ul>
           <Link to="/" className="link-to-home">
-          <img src="/image/home.jpeg" alt="Home" />
+          <img src="home.jpeg" alt="Home" />
           <span>Home</span>
           </Link>
           </ul>
