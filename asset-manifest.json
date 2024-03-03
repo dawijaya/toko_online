@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/toko_online/static/css/main.d16e9449.css",
+    "main.css": "/toko_online/static/css/main.37618036.css",
     "main.js": "/toko_online/static/js/main.c0bcc7ca.js",
     "index.html": "/toko_online/index.html",
-    "main.d16e9449.css.map": "/toko_online/static/css/main.d16e9449.css.map",
+    "main.37618036.css.map": "/toko_online/static/css/main.37618036.css.map",
     "main.c0bcc7ca.js.map": "/toko_online/static/js/main.c0bcc7ca.js.map"
   },
   "entrypoints": [
-    "static/css/main.d16e9449.css",
+    "static/css/main.37618036.css",
     "static/js/main.c0bcc7ca.js"
   ]
 }
